@@ -112,7 +112,7 @@ public class Day06 {
 
         // 문자마다 * n번 진행
         for (String str: list) {
-            sb.append(str.repeat(n));
+//            sb.append(str.repeat(n));
         }
 
         // 문자열 합치기
