@@ -4,15 +4,13 @@ package coding.test.play.intro;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
-
-public class Day00_sample {
+public class Day10_Sample {
 
     /**
      * 문제
      */
     int solution_01(int num1, int num2) {
-        return num1 == num2 ? 1 : 0;
+        return 0;
     }
 
     @Test
@@ -24,7 +22,7 @@ public class Day00_sample {
      * 문제
      */
     int solution_02(int num1, int num2) {
-        return num1 == num2 ? 1 : 0;
+        return 0;
     }
 
     @Test
@@ -36,7 +34,7 @@ public class Day00_sample {
      * 문제
      */
     int solution_03(int num1, int num2) {
-        return num1 == num2 ? 1 : 0;
+        return 0;
     }
 
     @Test
@@ -48,7 +46,7 @@ public class Day00_sample {
      * 문제
      */
     int solution_04(int num1, int num2) {
-        return num1 == num2 ? 1 : 0;
+        return 0;
     }
 
     @Test
